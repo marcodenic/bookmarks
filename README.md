@@ -1,13 +1,10 @@
 # bookmarks
 
-A public, curated-ish dump of links I want to be able to find again.
+A public list of links I explicitly sent to my assistant to save.
 
-## How to use
-- Start with **Links Inbox** (everything lands there first): [`Links Inbox.md`](./Links%20Inbox.md)
-- Later, links get curated into topic pages under [`Topics/`](./Topics/)
+- Start here: **[Public Bookmarks](./Public%20Bookmarks.md)**
+- Browse by category: [`Topics/`](./Topics/)
 
-## Topics
-- (coming soon)
-
-## Contributing / notes
-This repo is generated from my local Obsidian vault (only the links folder is published).
+## Notes
+- This repo is published from a private Obsidian vault.
+- It only contains links I explicitly send to be bookmarked (no other browsing context).
