@@ -4,6 +4,8 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 ## Bookmarks
 
+- 2026-02-10 — [GitHub - rendi-api/ffmpeg-cheatsheet: A categorized collection of FFmpeg commands for video automation pipelines.](https://github.com/rendi-api/ffmpeg-cheatsheet) — FFmpeg cheatsheet #ffmpeg #video #reference
+
 - 2026-02-10 — [Celestial Sphere | Community Components - 21st.dev](https://21st.dev/community/components/dhileepkumargm/celestial-sphere/default) — smoke shader #shaders #webgl
 - 2026-02-10 — [Paper Shaders – Ultra-fast zero-dependency shaders](https://shaders.paper.design/) — #shaders
 - 2026-02-10 — [Please stop uploading your sensitive documents to iLovePDF: Use this local PDF tool instead](https://www.howtogeek.com/stop-uploading-your-sensitive-documents-to-ilovepdf-this-is-a-local-self-hosted-alternative/) — pdf tools #pdf
