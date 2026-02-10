@@ -19,5 +19,5 @@ Links I explicitly send to Kitt to save as bookmarks.
 - 2026-02-10 — [X: @bloggersarvesh — “Low-hanging fruit” local keywords prompt](https://x.com/bloggersarvesh/status/2017589572927111232) — keyword research prompt #x
 - 2026-02-10 — [X: @david_attisaas — SEO/GEO audit + fix (skills.sh)](https://x.com/david_attisaas/status/2015373494075199670) — SEO audit workflow #x
 - 2026-02-10 — [X: @0xlelouch_ — async jobs/webhooks/idempotency best practices](https://x.com/0xlelouch_/status/2016885208826716192) — best practices #x
-- 2026-02-10 — [X: @tom_doerr — IP geolocation DB via CDN (GeoLite2-City)](https://x.com/tom_doerr/status/2020490938036989971) → https://github.com/wp-statistics/GeoLite2-City #x
-- 2026-02-10 — [X: @hybridherbst — md-browse (mini browser that sees the web like an AI)](https://x.com/hybridherbst/status/2020317149152297341) → https://github.com/needle-tools/md-browse #x
+- 2026-02-10 — [X: @tom_doerr — IP geolocation DB via CDN (GeoLite2-City)](https://x.com/tom_doerr/status/2020490938036989971) — “IP geolocation database via CDN without API keys” → https://github.com/wp-statistics/GeoLite2-City #x
+- 2026-02-10 — [X: @hybridherbst — md-browse (mini browser that sees the web like an AI)](https://x.com/hybridherbst/status/2020317149152297341) — “Make your websites and docs AI-friendly” → https://github.com/needle-tools/md-browse #x
