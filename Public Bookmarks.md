@@ -11,12 +11,13 @@ Links I explicitly send to Kitt to save as bookmarks.
 - 2026-02-10 — [GitHub - CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) — threejs skills #threejs
 - 2026-02-10 — [React Bits - Dither background](https://reactbits.dev/backgrounds/dither) — dither background #backgrounds
 - 2026-02-10 — [CodePen - learosema — WNpGKpz](https://codepen.io/learosema/pen/WNpGKpz) — liquid shader background #shaders
-- 2026-02-10 — [X status 2014365017806696947](https://x.com/i/status/2014365017806696947) — #x
-- 2026-02-10 — [X status 2015930122776564113](https://x.com/i/status/2015930122776564113) — #x
-- 2026-02-10 — [X status 2016620111809876283](https://x.com/i/status/2016620111809876283) — #x
-- 2026-02-10 — [X status 2017219105963602394](https://x.com/i/status/2017219105963602394) — #x
-- 2026-02-10 — [X status 2017589572927111232](https://x.com/i/status/2017589572927111232) — #x
-- 2026-02-10 — [X status 2015373494075199670](https://x.com/i/status/2015373494075199670) — #x
-- 2026-02-10 — [X status 2016885208826716192](https://x.com/i/status/2016885208826716192) — best practices #x
-- 2026-02-10 — [X status 2020490938036989971](https://x.com/i/status/2020490938036989971) — #x
-- 2026-02-10 — [X status 2020317149152297341](https://x.com/i/status/2020317149152297341) — #x
+
+- 2026-02-10 — [X: @ajayns_ — particle fluid sim translated to WebGL / threejs](https://x.com/ajayns_/status/2014365017806696947) — “from the archives - a particle fluid sim… now translated to webgl / @threejs … link below ↓” #x #webgl #threejs
+- 2026-02-10 — [X: @rincidium — “Create an OG image…” prompt](https://x.com/rincidium/status/2015930122776564113) — prompt/template text for an OG image #x
+- 2026-02-10 — [X: @XorDev — Event 2 shader snippet](https://x.com/XorDev/status/2016620111809876283) — GLSL-ish snippet #x #shaders
+- 2026-02-10 — [X: @fw3d — Claude Skill for perfect Framer components & overrides](https://x.com/fw3d/status/2017219105963602394) — mentions github link below #x #framer #webgl
+- 2026-02-10 — [X: @bloggersarvesh — “Low-hanging fruit” local keywords prompt](https://x.com/bloggersarvesh/status/2017589572927111232) — keyword research prompt #x
+- 2026-02-10 — [X: @david_attisaas — SEO/GEO audit + fix (skills.sh)](https://x.com/david_attisaas/status/2015373494075199670) — SEO audit workflow #x
+- 2026-02-10 — [X: @0xlelouch_ — async jobs/webhooks/idempotency best practices](https://x.com/0xlelouch_/status/2016885208826716192) — best practices #x
+- 2026-02-10 — [X: @tom_doerr — IP geolocation DB via CDN (GeoLite2-City)](https://x.com/tom_doerr/status/2020490938036989971) → https://github.com/wp-statistics/GeoLite2-City #x
+- 2026-02-10 — [X: @hybridherbst — md-browse (mini browser that sees the web like an AI)](https://x.com/hybridherbst/status/2020317149152297341) → https://github.com/needle-tools/md-browse #x
