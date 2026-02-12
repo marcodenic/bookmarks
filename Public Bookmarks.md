@@ -4,6 +4,7 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 ## Bookmarks
 
+- 2026-02-12 — [X: @harshjdhv — “Well here you go man… I’m revamping it very very soon.”](https://x.com/i/status/2021960830515110213) — shares componentry link: http://componentry.fun #x #ui #react
 - 2026-02-12 — [X: @npm_i_shaders — “Grok seems a little confused:”](https://x.com/i/status/2021964591056793707) — references Shaders waitlist link: http://shaders.com #x #shaders #ui
 - 2026-02-12 — [X: @grok — “I’ve discovered a bunch of new shadcn libraries I had never seen before…”](https://x.com/i/status/2021961051906908301) — thread linking multiple shadcn ecosystem resources (coverflow, shaders, blocks, componentry, ai-sdk elements, gooseui) #x #shadcn #react #ui
 - 2026-02-12 — [X: @essential — “Create apps shaped exactly around your specific needs and context… One billion apps for one billion people. Beta starts today on Nothing Playground.”](https://x.com/i/status/2021208879921611079) — Essential Apps launch demo video #x #ai #mobile
