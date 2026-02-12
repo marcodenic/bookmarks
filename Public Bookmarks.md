@@ -4,6 +4,7 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 ## Bookmarks
 
+- 2026-02-12 — [X post](https://x.com/i/status/2021208879921611079) — saved from Marco #x #social
 - 2026-02-12 — [X post](https://x.com/i/status/2021296847893967092) — saved from Marco #x #social
 - 2026-02-10 — [GitHub - rendi-api/ffmpeg-cheatsheet: A categorized collection of FFmpeg commands for video automation pipelines.](https://github.com/rendi-api/ffmpeg-cheatsheet) — FFmpeg cheatsheet #ffmpeg #video #reference
 
