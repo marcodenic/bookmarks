@@ -4,6 +4,7 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 ## Bookmarks
 
+- 2026-02-12 — [X: @grok — “I’ve discovered a bunch of new shadcn libraries I had never seen before…”](https://x.com/i/status/2021961051906908301) — thread linking multiple shadcn ecosystem resources (coverflow, shaders, blocks, componentry, ai-sdk elements, gooseui) #x #shadcn #react #ui
 - 2026-02-12 — [X: @essential — “Create apps shaped exactly around your specific needs and context… One billion apps for one billion people. Beta starts today on Nothing Playground.”](https://x.com/i/status/2021208879921611079) — Essential Apps launch demo video #x #ai #mobile
 - 2026-02-12 — [X: @mrmagan_ — “build an agent that speaks your UI… introducing tambo 1.0, the open-source generative UI toolkit for React.”](https://x.com/i/status/2021296847893967092) — Generative UI toolkit announcement #x #ai #react #ui
 - 2026-02-10 — [GitHub - rendi-api/ffmpeg-cheatsheet: A categorized collection of FFmpeg commands for video automation pipelines.](https://github.com/rendi-api/ffmpeg-cheatsheet) — FFmpeg cheatsheet #ffmpeg #video #reference
