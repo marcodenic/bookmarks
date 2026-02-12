@@ -6,9 +6,15 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 - 2026-02-12 — [X: @harshjdhv — “Well here you go man… I’m revamping it very very soon.”](https://x.com/i/status/2021960830515110213) — shares componentry link: http://componentry.fun #x #ui #react
 - 2026-02-12 — [X: @npm_i_shaders — “Grok seems a little confused:”](https://x.com/i/status/2021964591056793707) — references Shaders waitlist link: http://shaders.com #x #shaders #ui
-- 2026-02-12 — [X: @grok — “I’ve discovered a bunch of new shadcn libraries I had never seen before…”](https://x.com/i/status/2021961051906908301) — thread linking multiple shadcn ecosystem resources (coverflow, shaders, blocks, componentry, ai-sdk elements, gooseui) #x #shadcn #react #ui
-- 2026-02-12 — [X: @essential — “Create apps shaped exactly around your specific needs and context… One billion apps for one billion people. Beta starts today on Nothing Playground.”](https://x.com/i/status/2021208879921611079) — Essential Apps launch demo video #x #ai #mobile
-- 2026-02-12 — [X: @mrmagan_ — “build an agent that speaks your UI… introducing tambo 1.0, the open-source generative UI toolkit for React.”](https://x.com/i/status/2021296847893967092) — Generative UI toolkit announcement #x #ai #react #ui
+- 2026-02-12 — [coverflow.ashishgogula.in](https://coverflow.ashishgogula.in) — linked from X thread (source: https://x.com/i/status/2021961051906908301) #shadcn #ui
+- 2026-02-12 — [shadcn.io/shaders](https://shadcn.io/shaders) — linked from X thread (source: https://x.com/i/status/2021961051906908301) #shadcn #shaders
+- 2026-02-12 — [shadcnblocks.com/blocks/code-ex](https://shadcnblocks.com/blocks/code-ex) — linked from X thread (source: https://x.com/i/status/2021961051906908301) #shadcn #ui
+- 2026-02-12 — [componentry.fun](http://componentry.fun) — linked from X thread (source: https://x.com/i/status/2021961051906908301) #ui #react
+- 2026-02-12 — [pixel-perfect.space](https://pixel-perfect.space) — linked from X thread (source: https://x.com/i/status/2021961051906908301) #ui
+- 2026-02-12 — [ai-sdk.dev/elements](https://ai-sdk.dev/elements) — linked from X thread (source: https://x.com/i/status/2021961051906908301) #ai #ui
+- 2026-02-12 — [gooseui.pro](https://gooseui.pro) — linked from X thread (source: https://x.com/i/status/2021961051906908301) #ui
+- 2026-02-12 — [X post (no external link found)](https://x.com/i/status/2021208879921611079) — Essential Apps launch video post #x #ai #mobile
+- 2026-02-12 — [X post (external link not extractable yet)](https://x.com/i/status/2021296847893967092) — mentions tambo 1.0 toolkit; will replace with direct link once resolved #x #ai #react #ui
 - 2026-02-10 — [GitHub - rendi-api/ffmpeg-cheatsheet: A categorized collection of FFmpeg commands for video automation pipelines.](https://github.com/rendi-api/ffmpeg-cheatsheet) — FFmpeg cheatsheet #ffmpeg #video #reference
 
 - 2026-02-10 — [Celestial Sphere | Community Components - 21st.dev](https://21st.dev/community/components/dhileepkumargm/celestial-sphere/default) — smoke shader #shaders #webgl
