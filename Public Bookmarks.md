@@ -52,3 +52,5 @@ Links I explicitly send to Kitt to save as bookmarks.
 - 2026-02-10 — [@bloggersarvesh keyword prompt post](https://x.com/bloggersarvesh/status/2017589572927111232) — prompt text post
 - 2026-02-10 — [@david_attisaas SEO/GEO audit post](https://x.com/david_attisaas/status/2015373494075199670) — workflow post
 - 2026-02-10 — [@0xlelouch_ async jobs/webhooks post](https://x.com/0xlelouch_/status/2016885208826716192) — best-practice thread
+- 2026-02-14 — [X post (pending extraction)](https://x.com/i/status/2022462494078341220) — shared by Marco; external links/content not yet extracted #x #inbox
+- 2026-02-18 — [X post (pending extraction)](https://x.com/i/status/2023980754309456328) — shared by Marco; external links/content not yet extracted #x #inbox
