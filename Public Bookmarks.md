@@ -6,7 +6,7 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 - **Shaders / Visual effects:** [shadcn.io/shaders](https://shadcn.io/shaders), [Paper Shaders](https://shaders.paper.design/), [React Bits – Dither](https://reactbits.dev/backgrounds/dither), [Celestial Sphere](https://21st.dev/community/components/dhileepkumargm/celestial-sphere/default), [CodePen liquid shader](https://codepen.io/learosema/pen/WNpGKpz)
 - **UI Components / Libraries:** [componentry.fun](http://componentry.fun), [shadcnblocks code-ex](https://shadcnblocks.com/blocks/code-ex), [coverflow.ashishgogula.in](https://coverflow.ashishgogula.in), [gooseui.pro](https://gooseui.pro), [pixel-perfect.space](https://pixel-perfect.space)
-- **AI / Agent UI:** [ai-sdk.dev/elements](https://ai-sdk.dev/elements), [Tambo post (pending direct link)](https://x.com/i/status/2021296847893967092)
+- **AI / Agent UI:** [ai-sdk.dev/elements](https://ai-sdk.dev/elements), [agent-browser](https://github.com/vercel-labs/agent-browser), [Tambo post (pending direct link)](https://x.com/i/status/2021296847893967092)
 - **Dev references:** [ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet), [threejs-skills](https://github.com/CloudAI-X/threejs-skills), [md-browse](https://github.com/needle-tools/md-browse), [GeoLite2-City CDN post](https://github.com/wp-statistics/GeoLite2-City)
 
 ---
@@ -30,6 +30,7 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 ## AI / Agent UX
 
+- 2026-02-21 — [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — headless browser automation CLI for AI agents #ai #agents #browser-automation
 - 2026-02-12 — [ai-sdk.dev/elements](https://ai-sdk.dev/elements) — AI interface elements/components #ai #ui
 - 2026-02-12 — [X post: @essential Essential Apps launch](https://x.com/i/status/2021208879921611079) — no stable external link extracted; concept reference only #ai #mobile
 - 2026-02-12 — [X post: @mrmagan_ tambo 1.0](https://x.com/i/status/2021296847893967092) — direct external link not yet extracted; revisit #ai #react #ui
