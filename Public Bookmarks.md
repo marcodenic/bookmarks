@@ -37,6 +37,7 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 ## Dev / Tools / Reference
 
+- 2026-02-25 — [Maizzle Introduction](https://maizzle.com/docs/introduction) — docs intro for the Maizzle HTML email framework/tooling #email #framework #docs
 - 2026-02-10 — [ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet) — FFmpeg command reference #ffmpeg
 - 2026-02-10 — [Why WebGPU Feels Like the Future of the Web](https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh) — WebGPU explainer/demo #webgpu
 - 2026-02-10 — [threejs-skills](https://github.com/CloudAI-X/threejs-skills) — three.js patterns/examples #threejs
