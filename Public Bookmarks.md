@@ -47,6 +47,7 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 ## X-only notes (no durable external link captured yet)
 
+- 2026-02-26 — [X post (pending extraction)](https://x.com/i/status/2026755989551329340) — shared by Marco; external links/content not yet extracted #x #inbox
 - 2026-02-26 — [X post (pending extraction)](https://x.com/i/status/2026754497272307911) — shared by Marco; external links/content not yet extracted #x #inbox
 - 2026-02-26 — [X post (pending extraction)](https://x.com/i/status/2026592293054984523) — shared by Marco; external links/content not yet extracted #x #inbox
 - 2026-02-25 — [X post (pending extraction)](https://x.com/i/status/2026310255244665282) — shared by Marco; external links/content not yet extracted #x #inbox
