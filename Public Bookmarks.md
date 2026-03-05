@@ -13,6 +13,7 @@ Links I explicitly send to Kitt to save as bookmarks.
 
 ## Shaders / Visual Effects
 
+- 2026-03-05 — [Fluid Effects](https://fluideffects.vercel.app/) — interactive fluid-style visual effects playground/demo #shaders #visual-effects
 - 2026-02-12 — [shadcn.io/shaders](https://shadcn.io/shaders) — shader components for shadcn-style UI (from X thread) #shaders #ui
 - 2026-02-12 — [Shaders.com](http://shaders.com) — shaders waitlist/site (from @npm_i_shaders post) #shaders
 - 2026-02-10 — [Paper Shaders](https://shaders.paper.design/) — zero-dependency shader effects #shaders
